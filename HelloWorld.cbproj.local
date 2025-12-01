@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.850,D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\HelloWorld.cbproj=D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\HelloWorld.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.445,D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\File1.cpp=D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\HelloWorld.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\HelloWorld.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.710,C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp=D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.763,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\Projects\Programming\CPP\BDS\Console\TUI\HelloWorld\HelloWorldPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.810,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
