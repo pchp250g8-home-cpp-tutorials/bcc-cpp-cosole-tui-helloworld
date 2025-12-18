@@ -123,6 +123,9 @@
         <BCC_UseClassicCompiler>false</BCC_UseClassicCompiler>
     </PropertyGroup>
     <ItemGroup>
+        <None Include="constream.hpp">
+            <BuildOrder>2</BuildOrder>
+        </None>
         <CppCompile Include="HelloWorld.cpp">
             <BuildOrder>1</BuildOrder>
         </CppCompile>
